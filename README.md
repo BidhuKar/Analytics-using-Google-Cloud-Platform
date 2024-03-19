@@ -6,7 +6,7 @@ https://console.cloud.google.com/bigquery?project=data-analysis-project-417520
 Google Coolab Code link:
 https://colab.research.google.com/drive/14_RRWCUb9Qbrbnc-CGhxfngi3zrd55JS?authuser=0#scrollTo=Ft8Xia82oEDi
 
-LookerStudion Visualization Link:
+LookerStudio Visualization Link:
 https://lookerstudio.google.com/s/oasVgSyxmkk
 
 ![image](https://github.com/BidhuKar/Analytics-using-Google-Cloud-Platform/assets/26342171/109be491-2d69-405d-a81c-c35f3d5976ec)
